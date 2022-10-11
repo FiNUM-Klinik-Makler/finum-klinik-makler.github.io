@@ -73,6 +73,7 @@ defaults:
       path: ""
     values:
       amp-sidebar: true
+      author: DI
 
   # _posts
   - scope:
