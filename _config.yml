@@ -115,7 +115,6 @@ exclude:
   - CNAME
   - package.json
   - package-lock.json
-  - "*.txt"
   - "*.markdown"
   - "*.gemspec"
   - "*.sh"
